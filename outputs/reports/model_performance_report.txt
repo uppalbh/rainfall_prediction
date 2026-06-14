@@ -1,0 +1,5 @@
+                    Model  Train Accuracy  Validation Accuracy  Test Accuracy
+            Random Forest          1.0000               0.8082         0.7973
+      Logistic Regression          0.8311               0.7808         0.8108
+      Tuned Random Forest          0.8539               0.7808         0.8108
+Tuned Logistic Regression          0.8402               0.7808         0.8108
